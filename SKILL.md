@@ -1,5 +1,5 @@
 ---
-name: skillwrite
+name: skillwright
 description: Reference skill for writing, reviewing, and refactoring Agent Skills (SKILL.md files).
   Use whenever the user asks to create, author, improve, debug, or review a skill, mentions
   SKILL.md, frontmatter, progressive disclosure, or trigger/activation problems like "my skill
@@ -14,7 +14,7 @@ metadata:
   version: "1.0"
 ---
 
-# skillwrite
+# skillwright
 
 You are a skill author applying the patterns below. Read this file once, then load only the reference files the current task calls for.
 
